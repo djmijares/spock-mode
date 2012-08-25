@@ -13,7 +13,7 @@ Feature: Toggle a spock test
     And I press "C-c C-v tt"
     Then I should see:
     """
-    /* def "some test"() {
+    /*def "some test"() {
 
-    } */
+    }*/
     """
